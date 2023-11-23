@@ -1,0 +1,3 @@
+/home/blissmal/CLionProjects/MatIN/cmake-build-debug/CMakeFiles/MatIN.dir
+/home/blissmal/CLionProjects/MatIN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/blissmal/CLionProjects/MatIN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
